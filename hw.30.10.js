@@ -1,8 +1,8 @@
-var modelname = "Chevrolet Corvette Stingray"
-var color = "red"
-var wheelsCount = 5
+var modelname = "Daewoo Matiz"
+var color = "green"
+var wheelsCount = 4
 var isOffRoad = "no"
-var rating = 9
+var rating = 7
 
 console.log("modelname", modelname);
 console.log("color", color);
