@@ -5,16 +5,11 @@ if(age <= 16) {
     console.log("bolmaidy")
 }
 
- console.log(age % 2 == 0); // true
- 
-
-var num = 20;
-num -= 8;
-console.log(num)
-if(num == 12) {
-    console.log("zhup")
+var num = 20
+if(num % 2 == 0) {
+    console.log("bul san zhup")
 } else {
-    console.log("taq")
+    console.log("bul san taq")
 }
 
 var temp = 21;
