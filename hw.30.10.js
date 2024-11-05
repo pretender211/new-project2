@@ -1,8 +1,8 @@
-var modelname = "Daewoo Matiz"
-var color = "green"
-var wheelsCount = 4
-var isOffRoad = "no"
-var rating = 7
+var modelname = "Daewoo Matiz" //string
+var color = "green" //string
+var wheelsCount = 4 //number
+var isOffRoad = "false" //boolean
+var rating = 7 //number
 
 console.log("modelname", modelname);
 console.log("color", color);
